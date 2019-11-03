@@ -1,3 +1,3 @@
 # machine-learning-challenge
 
-Please Report.docx for detail summary.
+Please see Report.docx for detail summary.
